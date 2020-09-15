@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "aed96e198dadc6181290464fc7cb56c7",
+    "revision": "bd1d730a26a1c12554a0059d46c032eb",
     "url": "/dashboard_cuentas/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dashboard_cuentas/static/css/2.ed439b8d.chunk.css"
   },
   {
-    "revision": "e54663e2a154c39060e8",
+    "revision": "79004decac18c0d16c81",
     "url": "/dashboard_cuentas/static/css/main.5facb584.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dashboard_cuentas/static/js/2.f3311aa0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e54663e2a154c39060e8",
-    "url": "/dashboard_cuentas/static/js/main.0791c203.chunk.js"
+    "revision": "79004decac18c0d16c81",
+    "url": "/dashboard_cuentas/static/js/main.905930e4.chunk.js"
   },
   {
     "revision": "cd3c808094546da69093",
