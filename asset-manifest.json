@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/dashboard_cuentas/static/css/main.5facb584.chunk.css",
+    "main.js": "/dashboard_cuentas/static/js/main.0791c203.chunk.js",
+    "main.js.map": "/dashboard_cuentas/static/js/main.0791c203.chunk.js.map",
+    "runtime-main.js": "/dashboard_cuentas/static/js/runtime-main.6fa48fb0.js",
+    "runtime-main.js.map": "/dashboard_cuentas/static/js/runtime-main.6fa48fb0.js.map",
+    "static/css/2.ed439b8d.chunk.css": "/dashboard_cuentas/static/css/2.ed439b8d.chunk.css",
+    "static/js/2.f3311aa0.chunk.js": "/dashboard_cuentas/static/js/2.f3311aa0.chunk.js",
+    "static/js/2.f3311aa0.chunk.js.map": "/dashboard_cuentas/static/js/2.f3311aa0.chunk.js.map",
+    "index.html": "/dashboard_cuentas/index.html",
+    "precache-manifest.86921cc377291959e3232eee6a15ea2d.js": "/dashboard_cuentas/precache-manifest.86921cc377291959e3232eee6a15ea2d.js",
+    "service-worker.js": "/dashboard_cuentas/service-worker.js",
+    "static/css/2.ed439b8d.chunk.css.map": "/dashboard_cuentas/static/css/2.ed439b8d.chunk.css.map",
+    "static/css/main.5facb584.chunk.css.map": "/dashboard_cuentas/static/css/main.5facb584.chunk.css.map",
+    "static/js/2.f3311aa0.chunk.js.LICENSE.txt": "/dashboard_cuentas/static/js/2.f3311aa0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6fa48fb0.js",
+    "static/css/2.ed439b8d.chunk.css",
+    "static/js/2.f3311aa0.chunk.js",
+    "static/css/main.5facb584.chunk.css",
+    "static/js/main.0791c203.chunk.js"
+  ]
+}
